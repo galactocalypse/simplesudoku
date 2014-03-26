@@ -2,8 +2,7 @@ simplesudoku
 ============
 
 A simple sudoku game made in Javascript.
-Note: The game might not work unless jQuery is cached. This will be fixed soon. Until then, use a local version of jQuery to access the game.
-
+Made this in a hurry (few hours) as part of an internship interview process for a startup. Did make it through but was later informed that they couldn't run this because I hadn't packed a local copy of jQuery with the files.
 
 Contact
 -------
